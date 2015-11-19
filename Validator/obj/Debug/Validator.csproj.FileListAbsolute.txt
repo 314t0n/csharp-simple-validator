@@ -1,0 +1,5 @@
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\Validator\bin\Debug\Validator.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\Validator\bin\Debug\Validator.pdb
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\Validator\obj\Debug\Validator.csprojResolveAssemblyReference.cache
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\Validator\obj\Debug\Validator.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\Validator\obj\Debug\Validator.pdb

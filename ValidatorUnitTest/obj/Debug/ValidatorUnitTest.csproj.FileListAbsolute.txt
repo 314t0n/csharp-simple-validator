@@ -1,0 +1,9 @@
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\bin\Debug\ValidatorUnitTest.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\bin\Debug\ValidatorUnitTest.pdb
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\bin\Debug\Validator.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\bin\Debug\Validator.pdb
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\obj\Debug\ValidatorUnitTest.csprojResolveAssemblyReference.cache
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\obj\Debug\ValidatorUnitTest.dll
+c:\users\razumihin\documents\visual studio 2015\Projects\Validator\ValidatorUnitTest\obj\Debug\ValidatorUnitTest.pdb
